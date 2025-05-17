@@ -1,0 +1,77 @@
+	* {
+		margin: 0px;
+		padding: 0px;
+	}
+
+	body {
+		background-image: url(bACKGROUNd.jpg);
+		background-size: cover;
+	}
+
+	hr {
+		border: 3px dashed #FFFFFF;
+	}
+
+	a {
+		color: #B1CBFF;
+	}
+
+	a:hover {
+		color: #CFDFFF;
+	}
+
+	.container {
+		background-color: rgba(0,0,0,0.7);
+		box-shadow: 4px 4px 20px #FFFFFF;
+		padding: 60px;
+		text-align: center;
+		border-radius: 20px;
+		font-family: "Roboto Condensed", serif;
+	}
+
+	.container img {
+		width: 200px;
+		margin-bottom: 15px;
+	}
+
+	.main {
+		border: 3px dashed #FFFFFF;
+		border-radius: 10px;
+		padding: 20px;
+		text-align: justify;
+	}
+
+	.main h2 {
+		color: #FFFFFF;
+		text-shadow: 2px 2px 6px #475F91;
+	}
+
+	.main h4 {
+		color: #FFFFFF;
+		text-shadow: 2px 2px 6px #475F91;
+	}
+
+	.main label {
+		color: #FFFFFF;
+		text-shadow: 2px 2px 6px #475F91;
+	}
+
+	.bold {
+		color: #86c4df;
+		text-shadow: 2px 2px 6px #24687f;
+	}
+
+	.btn {
+		width: 100%;
+	}
+
+	.footer {
+		font-family: "Roboto Condensed", serif;
+		text-align: center;
+		background-color: rgba(16, 36, 42, 0.5);
+   		color: rgba(231, 255, 255, 1);
+   		text-shadow: 2px 2px 10px #000000;
+   		padding: 30px;
+   		bottom: 0;
+   		width: 100%;
+	}
